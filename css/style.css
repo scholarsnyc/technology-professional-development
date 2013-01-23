@@ -69,3 +69,21 @@ pre {
   font-size: 12px !important; }
   .gist .gist-meta a {
     color: #0088bc !important; }
+
+a.button {
+	background-color: rgba(0, 174, 240, 0.4);
+	border: 10px solid rgba(0, 174, 240, 0.2);
+	border-radius: 10px;
+	color: black;
+	display: block;
+	font-family: Futura, "Century Gothic", AppleGothic, sans-serif;
+	margin: 1em;
+	padding: 2em;
+	text-align: center;
+	text-decoration: none;
+}
+
+a.button:hover {
+	background-color: rgba(0, 174, 240, 0.7);
+	border: 10px solid rgba(0, 174, 240, 1);
+}
