@@ -1,9 +1,10 @@
 ---
 
 title: Mac Ninjary 101
-layout: tutorial
+layout: video
 categories: morning-sessions
 tags: productivity mac
+video-id: 63657814
 
 ---
 
